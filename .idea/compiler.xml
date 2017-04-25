@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="calculator" target="1.8" />
+      <module name="exchangeRates" target="1.8" />
+      <module name="lagom-scala-post-example-master" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

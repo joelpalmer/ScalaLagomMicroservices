@@ -1,0 +1,39 @@
+{
+	"variables": [],
+	"info": {
+		"name": "calcExchange",
+		"_postman_id": "4330be28-0e52-d82e-cc9a-72140e117271",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:9000/api/calculator/exchange?fromValue=1&fromUnit=EUR&toUnit=PLN",
+			"request": {
+				"url": "http://localhost:9000/api/calculator/exchange?fromValue=1&fromUnit=EUR&toUnit=PLN",
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:9000/api/exchangerates/EUR/PLN",
+			"request": {
+				"url": "http://localhost:9000/api/exchangerates/EUR/PLN",
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"rate\": 1.23}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

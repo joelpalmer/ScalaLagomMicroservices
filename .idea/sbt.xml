@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/calculator" />
+            <option value="$PROJECT_DIR$/calculator/project" />
+            <option value="$PROJECT_DIR$/calculatorApi" />
+            <option value="$PROJECT_DIR$/calculatorApi/project" />
+            <option value="$PROJECT_DIR$/exchangeRates" />
+            <option value="$PROJECT_DIR$/exchangeRates/project" />
+            <option value="$PROJECT_DIR$/exchangeRatesApi" />
+            <option value="$PROJECT_DIR$/exchangeRatesApi/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/utils" />
+            <option value="$PROJECT_DIR$/utils/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.11" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

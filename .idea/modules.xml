@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculator-build.iml" filepath="$PROJECT_DIR$/.idea/modules/calculator-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculatorApi.iml" filepath="$PROJECT_DIR$/.idea/modules/calculatorApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculatorApi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/calculatorApi-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exchangeRates.iml" filepath="$PROJECT_DIR$/.idea/modules/exchangeRates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exchangeRates-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exchangeRates-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exchangeRatesApi.iml" filepath="$PROJECT_DIR$/.idea/modules/exchangeRatesApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exchangeRatesApi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/exchangeRatesApi-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-scala-post-example-master.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-scala-post-example-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-scala-post-example-master-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-scala-post-example-master-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils-build.iml" filepath="$PROJECT_DIR$/.idea/modules/utils-build.iml" />
+    </modules>
+  </component>
+</project>
